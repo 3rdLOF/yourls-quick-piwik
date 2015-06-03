@@ -2,10 +2,10 @@
 /*
 Plugin Name: yourls-quick-piwik
 Plugin URI: https://github.com/3rdLOF/yourls-quick-piwik
-Description: Simple piwik plugin
+Description: Simple piwik plugin for slackers and the such.
 Version: 1.0
 Author: 3rdLOF
-Author URI: http://shorty.3rdlof.com/zme93
+Author URI: https://github.com/3rdLOF
 */
 
 // No direct call
