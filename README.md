@@ -26,10 +26,10 @@ Installation
    ![image](http://s25.postimg.org/nh1xti3bz/tracking2.jpg)  
 
    
-3. Open the plugin.php file and enter the URL where it says "ENTER PIWIK SITE URL HERE" and the site ID where it says "ENTER PIWIK SITE ID HERE". Notice it you must do this ***TWICE*** on the file. 
-4. Save the file, go to your YOURLS administration and install the plugin as normally. If something goes wrong you probably pasted extra characters or deleted some by accident. Check and fix. 
-5. If the plug in installs fine, go back to your PIWIK installation and reload that site's dashboard. if it is working you will see all the widgets load normally. 
-6. Eat some Ramen
+3. Open the plugin.php file and enter the URL where it says "ENTER PIWIK SITE URL HERE" and the site ID where it says "ENTER PIWIK SITE ID HERE". Notice you must do this ***TWICE*** on the file. 
+4. Save the file, go to your YOURLS administration and install the plugin as usual. If something goes wrong you probably pasted extra characters or deleted some by accident. Check it and fix. 
+5. If the plugin installs fine, go back to your PIWIK installation and reload that site's dashboard. If it is working you will see all the widgets load normally. 
+6. Kiss somebody. It is always a good way to go about things. 
 
 License
 -------
