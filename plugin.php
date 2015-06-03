@@ -20,15 +20,15 @@ function trackWithPiwik() {
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u='//ADD YOUR PIWIK INSTALLATION URL HERE/';
+    var u='//ENTER YOUR PIWIK URL HERE/';
     _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', ADD YOUR SITE ID HERE]);
+    _paq.push(['setSiteId', ENTER YOUR SITE ID HERE]);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 
 </script>       ";
-        echo "<noscript><p><img src=\"//ADD YOUR PIWIK INSTALLATION URL HERE/piwik.php?idsite=ADD YOUR SITE ID HERE\" style=\"border:0;\" alt=\"\" /></p></noscript>" ;
+        echo "<noscript><p><img src=\"//ENTER YOUR PIWIK URL HERE/piwik.php?idsite=ENTER YOUR SITE ID HERE\" style=\"border:0;\" alt=\"\" /></p></noscript>" ;
 
 }
 ?>
