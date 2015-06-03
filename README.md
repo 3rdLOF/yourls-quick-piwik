@@ -31,6 +31,10 @@ Installation
 5. If the plugin installs fine, go back to your PIWIK installation and reload that site's dashboard. If it is working you will see all the widgets load normally. 
 6. Kiss somebody. It is always a good way to go about things. 
 
+Local Only
+----------
+I have no tested this with remote sites, that is where YOURLS and PIWIK are installed in different servers, which is often not the case. Just be aware of this.
+
 License
 -------
 Free software. Do whatever the hell you want with it.
